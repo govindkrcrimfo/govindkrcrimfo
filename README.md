@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govind kumar</h1>
-<h3 align="center">I am Full Stack Java Developer with 3+ years of experience working with Core Java,Spring Boot, MicroServices , React, and Angular. I enjoy building useful applications and learning new technologies.</h3>
+<h3 align="center">I am Full Stack Java Developer ( Specialise in Backend Development)  with 4+ years of experience working with Core Java,Spring Boot, MicroServices , React, and Angular. I enjoy building useful applications and learning new technologies.</h3>
 
-- 🔭 I’m currently working on **pexel clone**
-
-- 🌱 I’m currently learning **MicroServices , Docker , Cloud etc.**
 
 - 💬 Ask me about **Core java , Spring Boot, DSA**
 
